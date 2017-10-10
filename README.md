@@ -11,6 +11,7 @@ Repo for all docs related to Peakd app / website
 * Take in user data (Jon)
 * Make an Instagram Account & Facebook Page
 * Make a logo, determine color schemes, etc. (Ryan)
+* Buy domain name
 
 ### Files - this can be deleted as the file count becomes unmanageable
 * peakd_html is the first HTML file for the site
