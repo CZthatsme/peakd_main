@@ -1,7 +1,7 @@
 # peakd_main
 Repo for all docs related to Peakd app / website
 
-# This repo contains all our files for Peakd. We will build, test, and edit each other's work here.
+# This repo contains all our files for Peakd. We build, test, and edit each other's work here.
 
 ### Things we want to do on this site - Throw your name on something if you want to lead the project!
 * Build Home Page
