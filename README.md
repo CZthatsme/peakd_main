@@ -12,6 +12,8 @@ Repo for all docs related to Peakd app / website
 * Make an Instagram Account & Facebook Page
 * Make a logo, determine color schemes, etc. (Ryan)
 * Buy domain name
+* Build a recommendation system for next hikes for hikers
+* Deep link to Instagram's top-rated / most recent pics of whatever page the hike is for
 
 ### Files - this can be deleted as the file count becomes unmanageable
 * peakd_html is the first HTML file for the site
