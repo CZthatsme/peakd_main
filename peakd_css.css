@@ -1,0 +1,23 @@
+body {
+  background: #303030;
+  margin: 100;
+  padding: 100;
+}
+
+div, p {
+  color: #9fc5e8;
+  font-family: 'Avenir', sans-serif;
+}
+
+h1 {
+  color: #9fc5e8;
+  font-family: 'Avenir', sans-serif;
+  text-align: center;
+  font-size: 66pt;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  vertical-align: center;
+}
+
+
+
